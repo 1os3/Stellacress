@@ -1,0 +1,8 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+/GodotEditor/
+/Publish/
+/BuildSecrets/
+/tests/tmp/*
+!/tests/tmp/.gdignore
